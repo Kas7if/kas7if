@@ -9,7 +9,8 @@
 
 ### Hi there 👋
 
-Student @ harper college
+Currently a CS Sophmore
+Open to internships and other openings!
 
 
 <!--

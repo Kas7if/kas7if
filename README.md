@@ -9,7 +9,7 @@
 
 ### Hi there 👋
 
-Currently a CS Sophmore
+Currently a CS Junior @Depaul
 Open to internships and other openings!
 
 

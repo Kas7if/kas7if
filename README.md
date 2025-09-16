@@ -7,10 +7,11 @@
 ```
 
 
-### Hi there 👋
+### Hello!!! 👋
 
 Currently a CS Junior @Depaul
 Open to internships and other openings!
+My interests are AI, ML, Data, Product Management
 
 
 <!--
